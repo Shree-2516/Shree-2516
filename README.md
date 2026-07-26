@@ -76,9 +76,11 @@ Flask • MySQL • AWS EC2 • RDS • S3
 Cloud-based learning management platform.
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shree-2516&show_icons=true&theme=tokyonight&hide_border=true)
+## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shree-2516&layout=compact&theme=tokyonight&hide_border=true)
+![](https://github-readme-stats-sigma-five.vercel.app/api?username=Shree-2516&show_icons=true&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Shree-2516&layout=compact&theme=tokyonight&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Shree-2516&theme=tokyonight&hide_border=true)
 
