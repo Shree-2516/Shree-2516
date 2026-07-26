@@ -45,13 +45,9 @@ I enjoy building AI-powered applications and solving real-world business problem
 
 ## 🌐 Connect With Me
 
-LinkedIn
-
-Portfolio
-
-Email
-
-GitHub
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreeyash-paraj/) 
+[![Email](https://img.shields.io/badge/Email-D14836.svg?logo=gmail&logoColor=white)](mailto:shreeyash2573@gmail.com) 
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/Shree-2516)
 
 
 # 🚀 Featured Projects
