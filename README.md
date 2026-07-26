@@ -1,7 +1,5 @@
 # 💫 About Me
 
-# 💫 About Me
-
 🎓 2026 Graduate | Data Science Intern (11 Months Completed)
 
 I enjoy building AI-powered applications and solving real-world business problems using Python, Data Analytics, Machine Learning, and AI.
