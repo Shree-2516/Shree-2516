@@ -1,16 +1,25 @@
-# 💫 About Me:
-* 📊 Currently working as a Data Science Intern (6 months experience)<br>* 🐍 Strong foundation in Python, Pandas, NumPy, and data analysis workflows<br>* 🗄️ Experience with SQL, PostgreSQL, and data handling techniques<br>* 📊 Skilled in building dashboards using Power BI and data visualization tools<br>* 🤖 Worked on Machine Learning & Deep Learning projects (CNN, NLP, YOLO)<br>* 🚀 Built real-world projects like SmartCity(Municipal Issues Detection), RetailSense360, and MERN Portfolio <br>* ☁️ Basic knowledge of AWS and Docker for deployment<br>* 💡 Solving real-world problems using data and technology<br>* 🌐 Also experienced in Full Stack Development using MERN (MongoDB, Express, React, Node.js)
+# 💫 About Me
 
+🎓 2026 Graduate | Data Science Intern (11 Months Completed)
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shree._108) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shreeyash-paraj) 
+I enjoy building AI-powered applications and solving real-world business problems using Machine Learning, Data Analytics, and Python.
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Shree-2516&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shree-2516&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+• 📊 Completed an 11-month Data Science Internship working on Computer Vision, Data Analysis, SQL, and ML applications
 
----
-[![](https://visitcount.itsvg.in/api?id=Shree-2516&icon=0&color=4)](https://visitcount.itsvg.in)
+• 🐍 Strong foundation in Python, SQL, Pandas, NumPy, Scikit-Learn, and Data Analytics
 
+• 🤖 Experienced in Machine Learning, Deep Learning, Computer Vision (YOLOv8), and NLP fundamentals
+
+• 📈 Built end-to-end AI applications with Flask, FastAPI, PostgreSQL, Docker, and Power BI
+
+• 🚀 Developed production-style projects including Smart City Issue Detection, RetailSense360, AI Trading Research Platform, and Portfolio Website
+
+• ☁️ Familiar with AWS, Docker, REST APIs, Git, and deployment workflows
+
+• 🎯 Currently seeking opportunities in
+
+  - Python Developer
+  - Data Analyst
+  - Data Analytics
+  - Data Scientist
+  - AI/ML Engineer
