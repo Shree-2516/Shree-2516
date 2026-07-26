@@ -3,7 +3,6 @@
 <h3 align="center">
 Python Developer | Data Analyst | AI/ML Engineer
 </h3>
-
 <p align="center">
 Building AI-powered applications with Python, Machine Learning, and Data Analytics.
 </p>
@@ -98,51 +97,9 @@ Cloud-hosted learning management platform with secure authentication and course 
 ![](https://streak-stats.demolab.com?user=Shree-2516&theme=tokyonight&hide_border=true)
 
 
-## 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreeyash-paraj/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shreeyash2573@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shree-2516)
-
-
-# 🚀 Featured Projects
-
-### 🚦 Smart City Issue Detection
-
-YOLOv8 • Flask • SQLite • Computer Vision
-
-AI system for detecting potholes and garbage with severity analysis.
-
----
-
-### 📈 AI-Powered Credit & Fraud Risk Intelligence
-
-Python • FastAPI • PostgreSQL • XGBoost • Docker
-
-Fraud detection platform with ML models and interactive dashboard.
-
----
-
-### ₿ BTCUSD AI Trading Research Platform
-
-FastAPI • LightGBM • FinBERT • WebSockets
-
-AI-powered quantitative trading research platform.
-
----
-
-### 📚 AWS Hosted Virtual Classroom
-
-Flask • MySQL • AWS EC2 • RDS • S3
-
-Cloud-based learning management platform.
-
-
 ## 📊 GitHub Stats
 
 ![](https://github-readme-stats-sigma-five.vercel.app/api?username=Shree-2516&show_icons=true&theme=tokyonight&hide_border=true)
 
 ![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Shree-2516&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Shree-2516&theme=tokyonight&hide_border=true)
 
