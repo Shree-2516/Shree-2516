@@ -1,3 +1,17 @@
+<h1 align="center">Hi 👋, I'm Shreeyash Paraj</h1>
+
+<h3 align="center">
+Python Developer | Data Analyst | AI/ML Engineer
+</h3>
+
+<p align="center">
+Building AI-powered applications with Python, Machine Learning, and Data Analytics.
+</p>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=650&lines=Python+Developer;Data+Analyst;AI%2FML+Engineer;Building+AI-Powered+Applications" />
+</p>
+
+
 # 💫 About Me
 
 🎓 2026 Graduate | Data Science Intern (11 Months Completed)
@@ -16,6 +30,13 @@ I enjoy building AI-powered applications and solving real-world business problem
   - Data Analytics
   - Data Scientist
   - AI/ML Engineer
+ 
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreeyash-paraj/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shreeyash2573@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shree-2516)
+
 # 💻 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -35,6 +56,47 @@ I enjoy building AI-powered applications and solving real-world business problem
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+# 🚀 Featured Projects
+
+## 🚦 Smart City Issue Detection
+
+**YOLOv8 • Flask • SQLite • Computer Vision**
+
+AI-powered system for detecting potholes and garbage with severity analysis and visualization.
+
+---
+
+## 📈 AI-Powered Credit & Fraud Risk Intelligence
+
+**Python • FastAPI • PostgreSQL • XGBoost • Docker**
+
+End-to-end fraud detection platform with ML models, risk scoring, and analytics dashboard.
+
+---
+
+## ₿ BTCUSD AI Trading Research Platform
+
+**FastAPI • LightGBM • FinBERT • WebSockets**
+
+Quantitative trading research platform featuring backtesting, sentiment analysis, and AI-driven market insights.
+
+---
+
+## 📚 AWS Hosted Virtual Classroom
+
+**Flask • MySQL • AWS EC2 • RDS • S3**
+
+Cloud-hosted learning management platform with secure authentication and course management.
+
+## 📈 GitHub Contribution Graph
+
+[![Shree's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Shree-2516&theme=tokyo-night)](https://github.com/Shree-2516)
+
+## 🔥 GitHub Streak
+
+![](https://streak-stats.demolab.com?user=Shree-2516&theme=tokyonight&hide_border=true)
+
 
 ## 🌐 Connect With Me
 
