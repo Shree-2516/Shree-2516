@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Shreeyash Paraj</h1>
 
 <h3 align="center">
-Python Developer | Data Analyst | AI/ML Engineer
+Data Analyst | Data Analysis | Data Science | Data Engineer | AI/ML Engineer
 </h3>
+
 <p align="center">
-Building AI-powered applications with Python, Machine Learning, and Data Analytics.
+Building data-driven solutions with Python, SQL, Power BI, Machine Learning, and AI.
 </p>
+
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=650&lines=Python+Developer;Data+Analyst;AI%2FML+Engineer;Building+AI-Powered+Applications" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=650&lines=Data+Analyst;Data+Analysis;Data+Science;Data+Engineer;AI%2FML+Engineer" />
 </p>
 
 
@@ -15,21 +17,21 @@ Building AI-powered applications with Python, Machine Learning, and Data Analyti
 
 🎓 2026 Graduate | Data Science Intern (11 Months Completed)
 
-I enjoy building AI-powered applications and solving real-world business problems using Python, Data Analytics, Machine Learning, and AI.
+I enjoy transforming raw data into actionable insights and building data-driven applications using Python, SQL, Power BI, Machine Learning, and AI.
 
-- Completed an 11-month Data Science Internship focused on Computer Vision, SQL, and Machine Learning.
-- Strong foundation in Python, SQL, Pandas, NumPy, and Scikit-learn.
-- Built end-to-end AI applications using Flask, FastAPI, PostgreSQL, Docker, and Power BI.
-- Developed production-ready projects including Smart City Issue Detection, RetailSense360, AI Trading Research Platform, and Portfolio Website.
-- Familiar with AWS, Docker, REST APIs, Git, GitHub, and deployment workflows.
-- Currently seeking opportunities as a Python Developer, Data Analyst, Data Scientist, or AI/ML Engineer.
+- Completed an 11-month Data Science Internship working on Computer Vision, SQL, Data Analysis, and Machine Learning projects.
+- Strong foundation in Python, SQL, PostgreSQL, Pandas, NumPy, Power BI, and Scikit-learn.
+- Built end-to-end data and AI projects involving ETL pipelines, dashboards, APIs, and predictive analytics.
+- Experienced with FastAPI, Flask, Docker, Git, GitHub, REST APIs, and AWS deployment workflows.
+- Passionate about solving real-world business problems through analytics, automation, and AI.
+- Currently seeking opportunities as a Data Analyst, Data Analysis, Data Scientist, Data Engineer, or AI/ML Engineer.
 
-  - Python Developer
   - Data Analyst
-  - Data Analytics
+  - Data Analysis
   - Data Scientist
+  - Data Engineer
   - AI/ML Engineer
- 
+
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreeyash-paraj/)
@@ -62,7 +64,7 @@ I enjoy building AI-powered applications and solving real-world business problem
 
 **YOLOv8 • Flask • SQLite • Computer Vision**
 
-AI-powered system for detecting potholes and garbage with severity analysis and visualization.
+AI-powered Computer Vision system that detects potholes and garbage, generates severity analysis, and provides actionable insights through a web dashboard.
 
 ---
 
@@ -70,7 +72,7 @@ AI-powered system for detecting potholes and garbage with severity analysis and 
 
 **Python • FastAPI • PostgreSQL • XGBoost • Docker**
 
-End-to-end fraud detection platform with ML models, risk scoring, and analytics dashboard.
+Built an end-to-end fraud detection platform featuring ETL workflows, risk scoring, machine learning predictions, and business analytics.
 
 ---
 
@@ -78,7 +80,7 @@ End-to-end fraud detection platform with ML models, risk scoring, and analytics 
 
 **FastAPI • LightGBM • FinBERT • WebSockets**
 
-Quantitative trading research platform featuring backtesting, sentiment analysis, and AI-driven market insights.
+Developed a quantitative trading research platform with market data analysis, backtesting, sentiment analysis, and AI-powered forecasting.
 
 ---
 
@@ -86,7 +88,7 @@ Quantitative trading research platform featuring backtesting, sentiment analysis
 
 **Flask • MySQL • AWS EC2 • RDS • S3**
 
-Cloud-hosted learning management platform with secure authentication and course management.
+Designed and deployed a cloud-based learning platform with secure authentication, database integration, and scalable AWS infrastructure.
 
 ## 📈 GitHub Contribution Graph
 
@@ -96,10 +98,8 @@ Cloud-hosted learning management platform with secure authentication and course 
 
 ![](https://streak-stats.demolab.com?user=Shree-2516&theme=tokyonight&hide_border=true)
 
-
 ## 📊 GitHub Stats
 
 ![](https://github-readme-stats-sigma-five.vercel.app/api?username=Shree-2516&show_icons=true&theme=tokyonight&hide_border=true)
 
 ![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Shree-2516&layout=compact&theme=tokyonight&hide_border=true)
-
